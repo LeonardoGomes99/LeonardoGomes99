@@ -18,14 +18,18 @@
   <img align="center" alt="leo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="leo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="leo-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="leo-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="leo-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="leo-php" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg">
+  <img align="center" alt="leo-python" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img align="center" alt="leo-Postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="leo-mysql" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
+  <img align="center" alt="leo-mongo" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"/>
   <img align="center" alt="leo-spring" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg"/>
+  <img align="center" alt="leo-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="leo-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="leo-Next" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> 
-  <img align="center" alt="leo-django" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" /> 
-  <img align="center" alt="leo-docker" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" /> 
+  <img align="center" alt="leo-django" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" />
   <img align="center" alt="leo-laravel" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg"/>
+  <img align="center" alt="leo-docker" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" /> 
   <img align="center" alt="leo-linux" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"> 
 </div>     
  
