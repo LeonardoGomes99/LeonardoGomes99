@@ -20,8 +20,12 @@
   <img align="center" alt="leo-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="leo-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="leo-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="leo-Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
-   <img align="center" alt="leo-Postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="leo-Postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="leo-spring" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg"/>
+   <img align="center" alt="leo-Next" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> 
+  <img align="center" alt="leo-django" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" /> 
+    <img align="center" alt="leo-docker" height="50" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" /> 
+  <img align="center" alt="leo-laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="center" alt="leo-Next" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg""> 
   
 </div>     
